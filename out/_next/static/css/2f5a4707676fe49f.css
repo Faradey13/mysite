@@ -1,0 +1,1 @@
+.skill-item,.skill-item path{transition:.3s ease-in-out}.skill-item svg{border-radius:15px}.skill-item:hover path:not(.notcolor){fill:#88ccca}.skill-item:hover{color:#88ccca;transform:scale(1.05)}.box-work-inactive{pointer-events:none}.box-work,.box-work img{transition:.5s}.box-work:hover{transform:scale(1.05)}.box-work:hover img{transform:scale(1.09)}
