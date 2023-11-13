@@ -8,7 +8,7 @@ const Resume = () => (
       <Heading as="h3" fontSize={20} mb={4}>
         Resume
       </Heading>
-      <Link target="_blank" href="https://drive.google.com/file/d/1fRKQetUxoqvyvSQw7RptCfABPF7B5NzM/view?usp=sharing">
+      <Link target="_blank" href="https://drive.google.com/file/d/1h8yt3qfbHszRw7pUtPZjGWsyFPGYOLyt/view">
         Open Google Disk
       </Link>
       <WorkImage  src="/images/works/resume.png" alt="Resume" />

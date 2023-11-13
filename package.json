@@ -6,6 +6,7 @@
     "build": "next build",
     "start": "next start",
     "prettier": "prettier --write .",
+    "export": "next export",
     "lint": "next lint"
   },
   "keywords": [],
